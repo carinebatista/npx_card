@@ -1,6 +1,6 @@
 {
   "name": "carine",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A personal card for Carine Batista (@carinebatista)",
   "main": "card.js",
   "bin": {
@@ -20,8 +20,8 @@
   },
   "keywords": [
     "business card",
-    "npm card", 
-    "npm", 
+    "npm card",
+    "npm",
     "npx"
   ],
   "author": "Carine Batista",
