@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 
+// Modules
 const boxen = require("boxen");
 const chalk = require("chalk");
-const clear = require("clear");
 const sw = require("star-wars-quotes");
 
 const data = {
