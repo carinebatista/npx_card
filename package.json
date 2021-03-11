@@ -16,7 +16,6 @@
   "dependencies": {
     "boxen": "^5.0.0",
     "chalk": "^4.1.0",
-    "clear": "^0.1.0",
     "star-wars-quotes": "^1.0.2"
   },
   "keywords": [

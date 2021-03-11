@@ -1,11 +1,9 @@
 #!/usr/bin/env node
 
-// Modules
 const boxen = require("boxen");
 const chalk = require("chalk");
 const clear = require("clear");
 const sw = require("star-wars-quotes");
-clear();
 
 const data = {
     name: chalk.red("                  Carine Batista"),
