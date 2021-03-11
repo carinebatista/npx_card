@@ -6,8 +6,12 @@
   "bin": {
     "carine": "./card.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carinebatista/npx_card"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node card.js"
   },
   "dependencies": {
     "boxen": "^5.0.0",
@@ -15,7 +19,12 @@
     "clear": "^0.1.0",
     "star-wars-quotes": "^1.0.2"
   },
-  "keywords": [],
-  "author": "Carine da Costa Batista",
+  "keywords": [
+    "business card",
+    "npm card", 
+    "npm", 
+    "npx"
+  ],
+  "author": "Carine Batista",
   "license": "ISC"
 }
