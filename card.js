@@ -7,7 +7,7 @@ const sw = require("star-wars-quotes");
 
 const data = {
     name: chalk.red("                  Carine Batista"),
-    work: `${chalk.white("Front End Developer at")} ${chalk.cyan("Braavo")}`,
+    work: `${chalk.white("Software Engineer at")} ${chalk.cyan("PagSeguro")}`,
 
     github: chalk.gray("https://github.com/") + chalk.blue("carinebatista"),
     twitter: chalk.gray("https://twitter.com/") + chalk.cyanBright("carinebatata"),
